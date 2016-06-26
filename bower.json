@@ -1,0 +1,21 @@
+{
+  "name": "d3js1",
+  "description": "Working with D3JS / PGA Tour Driving Statistics",
+  "main": "index.js",
+  "authors": [
+    "Billy Newman"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bnewman200/d3js1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "d3": "^3.5.17"
+  }
+}
